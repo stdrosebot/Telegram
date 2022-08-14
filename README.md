@@ -93,5 +93,5 @@ python3 -m Telegram # start the bot.
 - Kigyo For Base
 - Telethon library
 - PyroGram Library
-- Zaid Robot
+- Zad Robot
 
